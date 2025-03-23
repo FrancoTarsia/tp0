@@ -15,7 +15,7 @@ int main(void)
 	/* ---------------- LOGGING ---------------- */
 
 	logger = iniciar_logger();
-	log_info(logger, "Hola! Soy un log");
+	log_info(logger, "Hola! Soy un log"); // Primer LOG creeado
 	
 	// log_error(logger, "ERROR"); LOG DE ERROR CREADO POR NOSOTROS COMO PRUEBA
 
